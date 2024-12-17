@@ -1,0 +1,8 @@
+ on the command line
+ echo "# btcxip" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MO3NX/btcxip.git
+git push -u origin main
